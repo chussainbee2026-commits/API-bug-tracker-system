@@ -12,7 +12,6 @@ This system improves debugging efficiency, enhances communication between teams,
 
 ## Features
 
-
 ###  Authentication System
 - User Registration Page  
 - Secure Login Page  
