@@ -149,9 +149,9 @@ API integration with CI/CD tools
 
 File upload support
 
-## Author
+## Authors
 
-### Hussain bee & Akram Hussain
+### Akram Hussain & Hussain Bee
 
 #### Aspiring Software Developers | Python Enthusiasts | Data Analytics & AI Learners
 
